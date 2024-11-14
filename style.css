@@ -1,0 +1,22 @@
+.names{
+    text-align: center;
+    margin:2%;
+    padding: 5%;
+    border-style: groove;
+    border-color: blue;
+}
+#demo,#new-demo{
+    color: white;
+}
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+    background-image: url("https://www.shutterstock.com/image-vector/application-programming-interface-api-design-600nw-2227417651.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
